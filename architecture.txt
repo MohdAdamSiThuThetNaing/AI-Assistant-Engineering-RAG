@@ -1,0 +1,15 @@
+                 User
+                  |
+             Svelte UI
+                  |
+              FastAPI API
+                  |
+          AI Orchestrator
+                  |
+      +-----------+-----------+
+      |                       |
+  Retriever              LLM (Groq/GPT)
+      |
+ Vector DB (Chroma/Qdrant)
+      |
+GitHub Jira Confluence PDFs

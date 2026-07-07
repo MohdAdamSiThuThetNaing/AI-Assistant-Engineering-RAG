@@ -1,0 +1,13 @@
+Engineering AI Platform
+
+Developer AI
+- Bug investigation
+- Code review
+- Requirement understanding
+
+PM AI
+- Requirement analysis
+- Man-day estimation
+- Acceptance criteria
+
+Both assistants share a RAG knowledge base built from GitHub, Jira, and Confluence.
